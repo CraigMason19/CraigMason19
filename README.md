@@ -1,5 +1,5 @@
 ### Craig Mason
-Graduated from The University of Central Lancashire
+Graduated from The University of Central Lancashire (UCLAN).
 
 A Tech Tinkerer and Blender Enthusiast.
 
@@ -7,7 +7,7 @@ A Tech Tinkerer and Blender Enthusiast.
 
 <image align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/27_Artstation_logo_logos-512.png">[Artstation](https://www.artstation.com/craigmason19)
 
-<image align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/>[LinkedIn](https://www.linkedin.com/in/craig-mason-4854722ab)
+<image align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/>[LinkedIn](https://www.linkedin.com/in/craigmason19)
 
 ## Languages & Technology
 

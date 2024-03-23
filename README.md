@@ -1,5 +1,5 @@
-### Craig Mason
-Graduated from The University of Central Lancashire (UCLAN).
+# Craig Mason
+Started off making mods for Morrowind and then Graduated from The University of Central Lancashire (UCLAN).
 
 A Tech Tinkerer and Blender Enthusiast.
 
